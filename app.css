@@ -1,0 +1,1 @@
+.flex.demo>div>div,.flex.demo>div>span{display:block;padding:.3rem;background:rgba(35,209,96,.6);text-align:center}.flex.demo>div:nth-child(2n)>div,.flex.demo>div:nth-child(2n)>span{background:rgba(128,219,255,.6)}
